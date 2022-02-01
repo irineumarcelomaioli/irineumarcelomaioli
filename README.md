@@ -2,7 +2,7 @@
 - 🐱‍🏍 Hoje não estou trabalhando na área, mais estou estudando muitas coisas de front-end
 - 😁 Estou estudando Javascript, React, Nodejs e Typescript.
 - 🙌 Estou em busca de uma realocação no mercado de desenvolvimento.
-- 😎 <b><a href="https://immaioli.m85.tec.br">Currículo online</a></b>
+- 😎 Portfólio: <b><a href="https://immaioli.m85.tec.br">immaioli.m85.tec.br</a></b>
 ##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irineumarcelomaioli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
