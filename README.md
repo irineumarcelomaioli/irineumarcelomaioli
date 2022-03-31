@@ -26,7 +26,7 @@
   
    <a href="https://api.whatsapp.com/send?phone=5544999188624&text=%C3%93la%2C%20gostaria%20de%20marcar%20uma%20entrevista..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-  <a href="https://immaioli.m85.tec.br/" height='30' target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+  <a href="https://immaioli.m85.tec.br/" height='30' target="_blank"><img src="https://img.shields.io/badge/Currículo_Online-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
   
   <a href="irineu_marcelo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
