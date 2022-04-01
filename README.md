@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Irineu Marcelo Maioli.
-- 🐱‍🏍 Hoje não estou trabalhando na área, mais estou estudando muitas coisas de front-end
+- 🐱‍🏍 Hoje não estou trabalhando na área, mais estou estudando muitas coisas sobre full-stack.
 - 😁 Estou estudando Javascript, React, Nodejs e Typescript.
 - 🙌 Estou em busca de uma realocação no mercado de desenvolvimento.
 - 😎 Portfólio: <b><a href="https://immaioli.m85.tec.br">immaioli.m85.tec.br</a></b>
