@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Irineu Marcelo Maioli.
-- 🐱‍🏍 Hoje não estou trabalhando na área, mais estou estudando muitas coisas sobre full-stack.
-- 😁 Estou estudando Javascript, React, Nodejs e Typescript.
-- 🙌 Estou em busca de uma realocação no mercado de desenvolvimento.
-- 😎 Portfólio: <b><a href="https://immaioli.m85.tec.br">immaioli.m85.tec.br</a></b>
+- 🐱‍🏍 Hoje estou trabalhando na área, trabalho com Inteligência Artificial, com foco em NLP.
+- 😁 Estou sempre estudando, principalmente pelo avanço no campo de Machine Learning.
+- 😎 Portfólio: <b><a href="[https://immaioli.m85.tec.br](https://maioli.dev.br/)">maioli.dev.br</a></b>
 ##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irineumarcelomaioli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
